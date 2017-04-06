@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/neka-nat/neka-nat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[neka-nat](https://github.com/neka-nat)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skill
+* C/C++
+* Python
+* CUDA
+* OpenCL
+* Javascript
+* Rust
+* tensorflow/pytorch
+* ROS/ROS2
 
-### Markdown
+## Store
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://teespring.com/cupoch?pid=2&cid=101403" target="_blank"><img src="https://mockup-api.teespring.com/v3/image/3fqVwa9nsf0iEoxDjKjYt-Zb7A4/480/560.jpg" alt="Logo Tshirts" width="150" ></a><a href="https://teespring.com/cupoch?pid=2&cid=578" target="_blank"><img src="https://mockup-api.teespring.com/v3/image/_6awrc3E8TgHAH3Y2f1gBZGjQZY/480/560.jpg" alt="Logo Tshirts" width="150" ></a><a href="https://teespring.com/cupoch?pid=2&cid=6046" target="_blank"><img src="https://mockup-api.teespring.com/v3/image/rZoHF0VbfBqqY9WxBV8P79MLHdc/480/560.jpg" alt="Logo Tshirts" width="150" ></a><a href="https://teespring.com/cupoch?pid=2&cid=581" target="_blank"><img src="https://mockup-api.teespring.com/v3/image/J4nZN0AnE_-AlxxKQTKgxbJ57_Y/480/560.jpg" alt="Logo Tshirts" width="150" ></a>
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
+* [twitter](https://twitter.com/neka_nat)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neka-nat/neka-nat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
